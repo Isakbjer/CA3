@@ -2,3 +2,5 @@ __pycache__/*
 CA2.ipynb
 DAT300_Dataset_CA_3/*
 *.h5
+*.keras
+*.csv
